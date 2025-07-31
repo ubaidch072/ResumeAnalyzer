@@ -1,5 +1,0 @@
-Flask
-PyPDF2
-pandas
-pickle-mixin
-werkzeug

@@ -2,7 +2,7 @@ setuptools>=60.0.0
 wheel
 Flask==2.3.3
 PyPDF2==3.0.1
-pandas==2.3.1
+pandas==2.0.3
 scikit-learn==1.0.2
 werkzeug==3.0.3
 pickle-mixin==1.0.2
